@@ -20,6 +20,7 @@ CRUD Entity Framework 6 with MySQL
 		</providers>
 	</entityFramework>
 	```
+5. Add Data **ADO.NET Entity Data Model** to **/Models**
 
 ## references
 - [MySQL In Asp.Net MVC CRUD Application Using Entity Framework](https://www.youtube.com/watch?v=Col_2RDI3_4)
