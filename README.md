@@ -10,5 +10,5 @@ CRUD Entity Framework 6 with MySQL
 2. Choose Empty and choose MVC
 
 ## references
-- https://www.youtube.com/watch?v=Col_2RDI3_4
-- https://stackoverflow.com/questions/22031269/enable-entity-framework-6-for-mysql-c-in-winforms-of-microsoft-visual-studio
+- [MySQL In Asp.Net MVC CRUD Application Using Entity Framework](https://www.youtube.com/watch?v=Col_2RDI3_4)
+- [Enable Entity Framework 6 for MySql (C#)](https://stackoverflow.com/questions/22031269/enable-entity-framework-6-for-mysql-c-in-winforms-of-microsoft-visual-studio)
