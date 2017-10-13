@@ -12,14 +12,14 @@ CRUD Entity Framework 6 with MySQL
 	- **EntityFramework**
 	- Browse C:\Program Files (x86)\MySQL\MySQL Connector Net 6.9.9\Assemblies\v4.5, choose **MySql.Data.dll**, **MySql.Data.Entity.EF6.dll**, **MySql.Web.dll**
 4. edit web.config
-```
-<entityFramework>
-	<defaultConnectionFactory type="MySql.Data.Entity.MySqlConnectionFactory, MySql.Data.Entity.EF6" />
-	<providers>
-		<provider invariantName="MySql.Data.MySqlClient" type="MySql.Data.MySqlClient.MySqlProviderServices, MySql.Data.Entity.EF6" />
-	</providers>
-</entityFramework>
-```
+	```
+	<entityFramework>
+		<defaultConnectionFactory type="MySql.Data.Entity.MySqlConnectionFactory, MySql.Data.Entity.EF6" />
+		<providers>
+			<provider invariantName="MySql.Data.MySqlClient" type="MySql.Data.MySqlClient.MySqlProviderServices, MySql.Data.Entity.EF6" />
+		</providers>
+	</entityFramework>
+	```
 
 ## references
 - [MySQL In Asp.Net MVC CRUD Application Using Entity Framework](https://www.youtube.com/watch?v=Col_2RDI3_4)
